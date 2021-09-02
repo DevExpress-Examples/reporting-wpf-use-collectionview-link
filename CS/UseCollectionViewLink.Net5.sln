@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCollectionViewLink", "UseCollectionViewLink.csproj", "{C06CE85C-D7D2-4252-A265-6719E0FBCAA7}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseCollectionViewLink", "UseCollectionViewLink.Net5.csproj", "{C06CE85C-D7D2-4252-A265-6719E0FBCAA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
