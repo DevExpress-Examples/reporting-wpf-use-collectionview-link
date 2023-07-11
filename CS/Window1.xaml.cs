@@ -1,4 +1,3 @@
-﻿#region #Reference
 using System;
 using System.ComponentModel;
 using System.Globalization;
@@ -6,7 +5,6 @@ using System.Windows;
 using System.Windows.Data;
 using DevExpress.Xpf.Printing;
 // ...
-#endregion #Reference
 
 namespace UseCollectionViewLink {
 
@@ -15,7 +13,6 @@ namespace UseCollectionViewLink {
             InitializeComponent();
         }
 
-#region #CollectionViewLink
 private void button1_Click(object sender, RoutedEventArgs e) {
     // Create a link and bind it to the PrintPreview instance.
     CollectionViewLink link = new CollectionViewLink();
@@ -61,7 +58,6 @@ public class MonthItem {
         Quarter = quarter;
     }
 }
-#endregion #CollectionViewLink
 
 
     }
