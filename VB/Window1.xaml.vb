@@ -1,4 +1,3 @@
-'#Region "#Reference"
 Imports System
 Imports System.ComponentModel
 Imports System.Globalization
@@ -7,7 +6,6 @@ Imports System.Windows.Data
 Imports DevExpress.Xpf.Printing
 
 ' ...
-'#End Region  ' #Reference
 Namespace UseCollectionViewLink
 
     Public Partial Class Window1
@@ -17,7 +15,6 @@ Namespace UseCollectionViewLink
             Me.InitializeComponent()
         End Sub
 
-'#Region "#CollectionViewLink"
         Private Sub button1_Click(ByVal sender As Object, ByVal e As RoutedEventArgs)
             ' Create a link and bind it to the PrintPreview instance.
             Dim link As CollectionViewLink = New CollectionViewLink()
@@ -76,6 +73,5 @@ Namespace UseCollectionViewLink
                 Me.Quarter = quarter
             End Sub
         End Class
-'#End Region  ' #CollectionViewLink
     End Class
 End Namespace
