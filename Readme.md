@@ -3,17 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1674)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Reporting for WPF - How to use the CollectionView Link to Print Data
+
+The following example shows how to use the `CollectionViewLink` class to print data from a hierarchical data source. The data soure implements the `ICollectionView` interface.
+
+## Files to Review
 
 * [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml](./VB/Window1.xaml))
 * [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
-<!-- default file list end -->
-# How to use the CollectionView Link
 
+## Documentation
 
-<p>The following example demonstrates how to use the <strong>CollectionViewLink</strong> class to print data from a hierarchical data source, which implements the <strong>ICollectionView</strong> interface.</p><p>See also: <a href="https://www.devexpress.com/Support/Center/p/E1673">How to use the Simple Link</a></p>
+- [Printing Custom Reports](https://docs.devexpress.com/WPF/7412/common-concepts/printing-and-exporting/printing-custom-reports)
 
-<br/>
+## More Examples 
 
-
+- [Reporting for WPF - Print a ListView data](https://github.com/DevExpress-Examples/reporting-wpf-print-listview-data)
