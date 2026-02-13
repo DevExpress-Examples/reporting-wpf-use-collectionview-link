@@ -22,7 +22,7 @@ The following example shows how to use the `CollectionViewLink` class to print d
 
 - [Reporting for WPF - Print a ListView data](https://github.com/DevExpress-Examples/reporting-wpf-print-listview-data)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-use-collectionview-link&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-use-collectionview-link&~~~was_helpful=no)
 
